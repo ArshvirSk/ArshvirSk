@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I'm an ambitious **Full Stack Developer** with a sharp focus on **Artificial Intelligence**. I excel at building cutting-edge, scalable applications, and now I'm leveraging my skills to dive deep into AI, positioning myself at the forefront of tech innovation.
 
 - 🔭 I’m currently working on AI-powered applications using **React, Node.js**, and **Express**, while integrating advanced machine learning models.
