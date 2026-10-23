@@ -40,7 +40,15 @@ I build production-grade SaaS and **agentic AI systems**: multi-agent LangGraph 
   <tr>
     <td><b>Full Stack</b></td>
     <td>
-      <img src="https://skillicons.io/icons?i=nextjs,react,ts,tailwind,nodejs,express,fastapi,py,flask,spring,java&perline=11" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -52,19 +60,25 @@ I build production-grade SaaS and **agentic AI systems**: multi-agent LangGraph 
       <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
       <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
       <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
-      <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td><b>Data & Backend</b></td>
+    <td><b>Data &amp; Backend</b></td>
     <td>
-      <img src="https://skillicons.io/icons?i=supabase,postgres,redis,mongodb,prisma&perline=11" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><b>ML / Big Data</b></td>
     <td>
-      <img src="https://skillicons.io/icons?i=sklearn,tensorflow,spark,kafka&perline=11" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
       <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square" />
       <img src="https://img.shields.io/badge/SHAP-FF6F00?style=flat-square" />
     </td>
@@ -72,22 +86,28 @@ I build production-grade SaaS and **agentic AI systems**: multi-agent LangGraph 
   <tr>
     <td><b>Blockchain</b></td>
     <td>
-      <img src="https://skillicons.io/icons?i=solidity,ethereum,hardhat&perline=11" />
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square" />
       <img src="https://img.shields.io/badge/Aptos-000000?style=flat-square&logo=aptos&logoColor=white" />
       <img src="https://img.shields.io/badge/Move-4285F4?style=flat-square" />
     </td>
   </tr>
   <tr>
-    <td><b>Cloud & DevOps</b></td>
+    <td><b>Cloud &amp; DevOps</b></td>
     <td>
-      <img src="https://skillicons.io/icons?i=aws,gcp,docker,kubernetes,ansible,githubactions,linux&perline=11" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
       <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=flat-square&logo=puppet&logoColor=black" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td><b>Mobile</b></td>
     <td>
-      <img src="https://skillicons.io/icons?i=react&perline=11" />
       <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
     </td>
