@@ -17,7 +17,7 @@
 
 ### 👋 About Me
 
-I'm a final-year B.E. Computer Engineering student at **St. Francis Institute of Technology, Mumbai**, working as a **Full Stack Developer & AI Engineer**. I'm currently interning as a Full Stack Developer at **DBA Consultants**, and I take on freelance projects via Fiverr, Upwork, and Contra.
+I'm a final-year B.E. Computer Engineering student at **St. Francis Institute of Technology, Mumbai**, working as a **Full Stack Developer & AI Engineer**. I take on freelance projects via Fiverr, Upwork, and Contra.
 
 I build production-grade SaaS platforms and multi-agent AI systems — from 10-agent LangGraph pipelines to self-hosted, privacy-first AI tools. I have a strong pull toward smart-city/transit infrastructure and agentic systems as project domains, and I like taking solo or small-team builds all the way to a real PRD and working product.
 
