@@ -1,6 +1,5 @@
 <!-- Header banner -->
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F76B1C,100:111111&height=190&section=header&text=Arshvir%20Singh%20Kalsi&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Engineer&descSize=18&descAlignY=58" alt="Arshvir Singh Kalsi" width="100%" />
 
 <a href="https://www.arshvirskalsi.com/">
@@ -13,7 +12,6 @@
 <a href="https://leetcode.com/ArshvirSk"><img src="https://img.shields.io/badge/LeetCode-ArshvirSk-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://www.fiverr.com/arshvirsinghk"><img src="https://img.shields.io/badge/Fiverr-arshvirsinghk-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 <a href="https://www.upwork.com/"><img src="https://img.shields.io/badge/Upwork-Available_for_hire-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-
 </div>
 
 <br/>
@@ -35,7 +33,6 @@ I build production-grade SaaS and **agentic AI systems**: multi-agent LangGraph 
 ---
 
 ## 🛠️ Tech Stack
-
 <table>
   <tr>
     <td><b>Full Stack</b></td>
