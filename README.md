@@ -24,7 +24,7 @@ I build production-grade SaaS and **agentic AI systems**: multi-agent LangGraph 
 
 |  |  |
 |---|---|
-| 🏢 **Now** | Full Stack Developer Intern @ **DBA Consultants** |
+| 🏢 **Now** | Full Stack Developer |
 | 🧑‍💻 **Freelance** | Fiverr · Upwork · Contra |
 | 🤝 **Community** | Joint Tech Head, **CSI** (Computer Society of India) student chapter, SFIT |
 | 📍 **Based in** | Mumbai, India |
