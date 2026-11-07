@@ -7,7 +7,6 @@
 </a>
 
 <br/>
-
 <a href="https://www.arshvirskalsi.com/"><img src="https://img.shields.io/badge/Portfolio-arshvirskalsi.com-F76B1C?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://leetcode.com/ArshvirSk"><img src="https://img.shields.io/badge/LeetCode-ArshvirSk-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://www.fiverr.com/arshvirsinghk"><img src="https://img.shields.io/badge/Fiverr-arshvirsinghk-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
