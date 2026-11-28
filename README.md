@@ -14,7 +14,6 @@
 </div>
 
 <br/>
-
 ## 👋 About
 
 I'm a final-year **B.E. Computer Engineering** student at **St. Francis Institute of Technology, Mumbai**, working as a **Full Stack Developer & AI Engineer**.
